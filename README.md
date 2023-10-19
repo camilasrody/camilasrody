@@ -6,7 +6,7 @@
 
  Atualmente, estou concentrada em projetos de desenvolvimento web, mas sempre de olho nas oportunidades de combinar o mundo do software com o hardware.
 
-## 👯 Colaborações São Bem-Vindas
+## 🤝 Colaborações São Bem-Vindas
 
  Estou aberta a colaborações e parcerias interessantes na área da tecnologia. Se você tem um projeto inovador que envolve desenvolvimento web, hardware ou automação, sinta-se à vontade para entrar em contato.
 
