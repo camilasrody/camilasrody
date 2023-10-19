@@ -1,16 +1,29 @@
-### Hi there 👋
+# Olá, sou a Camila! 👋
 
-<!--
-**camilasrody/camilasrody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Nasci em 97 e sou uma desenvolvedora web com uma forte paixão pela tecnologia. Desde minha adolescência, mergulhei na programação, explorando tanto o desenvolvimento de software quanto a integração com hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning new technologies, but i luv working with web development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: you can reach me by e-mail: camilasrody@gmail.com, and in https://camilarody.me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i like training muay thai to become a super fighter, i love to eat and cook eastern food, i'm very competitive in video games, and i love to talk, you can call me to talk about anything.
--->
+## No Momento
+
+🔭 Atualmente, estou concentrada em projetos de desenvolvimento web, mas sempre de olho nas oportunidades de combinar o mundo do software com o hardware.
+
+## Colaborações São Bem-Vindas
+
+👯 Estou aberta a colaborações e parcerias interessantes na área da tecnologia. Se você tem um projeto inovador que envolve desenvolvimento web, hardware ou automação, sinta-se à vontade para entrar em contato.
+
+## Dúvidas? Estou à Disposição
+
+🤔 Estou aqui para ajudar e discutir qualquer tópico relacionado à tecnologia.
+
+## Como Me Encontrar
+
+📫 Para entrar em contato, você pode me enviar um e-mail para [camilasrody@gmail.com](mailto:camilasrody@gmail.com) ou visitar meu site pessoal em [https://camilarody.xyz](https://camilarody.xyz).
+
+## Curiosidades
+
+⚡ Além do meu envolvimento com a programação, tenho uma paixão pelo mundo do hardware. Projetos com Arduino e a exploração criativa de dispositivos físicos são áreas que me cativam profundamente. Sou lutadora de Muay Thai. Adoro fazer exercícios, cozinhar pratos orientais e jogar. Também adoro conversar, então pode me chamar para falar sobre qualquer coisa!
+
+## Vamos Conectar!
+
+Estou ansiosa para interagir e compartilhar nossa paixão pela tecnologia, seja no desenvolvimento de software, no mundo do hardware ou nas automações inteligentes. Vamos colaborar e criar soluções incríveis juntos! 🚀😊
