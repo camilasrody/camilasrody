@@ -1,8 +1,6 @@
 # Olá, sou a Camila! 👋
 
-## Sobre Mim
-
-Nasci em 97 e sou uma desenvolvedora web com uma forte paixão pela tecnologia. Desde minha adolescência, mergulhei na programação, explorando tanto o desenvolvimento de software quanto a integração com hardware.
+ Nasci em 97 e sou uma desenvolvedora web com uma forte paixão pela tecnologia. Desde minha adolescência, mergulhei na programação, explorando tanto o desenvolvimento de software quanto a integração com hardware.
 
 ## 🔭 No Momento
 
@@ -22,8 +20,8 @@ Nasci em 97 e sou uma desenvolvedora web com uma forte paixão pela tecnologia. 
 
 ## ⚡ Curiosidades
 
-Além do meu envolvimento com a programação, tenho uma paixão pelo mundo do hardware. Projetos com Arduino e a exploração criativa de dispositivos físicos são áreas que me cativam profundamente. Sou lutadora de Muay Thai. Adoro fazer exercícios, cozinhar pratos orientais e jogar. Também adoro conversar, então pode me chamar para falar sobre qualquer coisa!
+ Além do meu envolvimento com a programação, tenho uma paixão pelo mundo do hardware. Projetos com Arduino e a exploração criativa de dispositivos físicos são áreas que me cativam profundamente. Sou lutadora de Muay Thai. Adoro fazer exercícios, cozinhar pratos orientais e jogar. Também adoro conversar, então pode me chamar para falar sobre qualquer coisa!
 
 ## Vamos Conectar!
 
-Estou ansiosa para interagir e compartilhar nossa paixão pela tecnologia, seja no desenvolvimento de software, no mundo do hardware ou nas automações inteligentes. Vamos colaborar e criar soluções incríveis juntos! 🚀😊
+ Estou ansiosa para interagir e compartilhar nossa paixão pela tecnologia, seja no desenvolvimento de software, no mundo do hardware ou nas automações inteligentes. Vamos colaborar e criar soluções incríveis juntos! 🚀😊
