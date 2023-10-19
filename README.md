@@ -13,7 +13,7 @@
 
 - 📫 To reach me **send a email to camilasrody@gmail.com or contact by [linkedin](https://www.linkedin.com/in/camilarody).**
 
-- ⚡ Fun fact **I have a deeply captivation for tinkering things and hardware(microcontrollers). I'm a Muay Thai fighter. I enjoy working out, cooking oriental dishes, and gaming.**
+- ⚡ Fun fact **I have a deeply captivation for tinkering things and hardware(microcontrollers). I'm a Muay Thai fighter. I enjoy working out, cooking oriental dishes and gaming.**
 <br />
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilasrody&show_icons=true&locale=en&layout=compact" alt="camilasrody" /></div>
 <br />
