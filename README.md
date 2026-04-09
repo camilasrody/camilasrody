@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to collaborate **in the field of technology. If you have an innovative project that involves web development, hardware, or automation, feel free to get in touch.**
 
-- 👨‍💻 All about my carrer and projects are available at [https://camilarody.xyz](https://camilarody.xyz).
+- 👨‍💻 All about my carrer and projects are available at [my website](https://camilarody.netlify.app).
 
 - 💬 Ask me about **Vue, TailwindCSS, Vite, Laravel, Docker, Bash, Arduino.**
 
