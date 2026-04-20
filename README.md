@@ -48,15 +48,10 @@ My goal is to keep transforming the world and contributing to high-impact soluti
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=camilasrody&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilasrody&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=camilasrody&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilasrody&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </div>
 
 
