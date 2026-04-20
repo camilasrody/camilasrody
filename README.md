@@ -60,7 +60,6 @@ My goal is to keep transforming the world and contributing to high-impact soluti
   <img src="https://github-readme-streak-stats.herokuapp.com?user=camilasrody&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a4a,100:1a1a1a&height=100&section=footer" />
