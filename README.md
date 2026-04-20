@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Camila%20Rody&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-end%20Developer%20%C2%B7%20Vue.js%20%C2%B7%20React.js%20%C2%B7%20TypeScript&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4a4a4a&height=180&section=header&text=Camila%20Rody&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-end%20Developer%20%C2%B7%20Vue.js%20%C2%B7%20React.js%20%C2%B7%20TypeScript&descAlignY=55&descSize=16" />
 </div>
-
-<h3 align="center">Mid-level frontend developer from Brazil 🇧🇷, building interfaces since 2016.</h3>
 
 <p align="center">
   <a href="https://camilarody.xyz" target="_blank">
@@ -16,17 +14,15 @@
 
 ---
 
-- 🏥 Currently at **Portal Telemedicina** — micro-frontend architecture for medical telediagnosis with React.js + TypeScript
-- 🌍 Built a **UNICEF open-source child development platform** — real-time monitoring, interactive maps, vaccine tracking, 5,000+ lives impacted
-- 🔎 Built an **anti-fraud system** for São Paulo's public health network, featuring a **3D regional fraud intensity map** with Three.js
-- 🛠️ Strong focus on **Design Systems**, **E2E testing (Cypress)**, **CI/CD pipelines**, and **clean component architecture**
-- 💬 Ask me about **Vue.js, React.js, TypeScript, Tailwind CSS, Apollo GraphQL, Docker, Cypress**
-- 📫 Reach me at **camilasrody@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/camilarody)
-- ⚡ Muay Thai fighter · oriental cooking · gaming · hardware tinkering (Arduino / ESP8266)
+Since 2016, I've been passionate about what I do as a frontend developer. Throughout my career I've had incredible opportunities to improve products and businesses — and to contribute to solutions that save lives through the code I write.
+
+My focus is always on clean, well-structured code, using the right tools for each challenge. I keep myself constantly updated, investing in knowledge and practice to deliver quality work.
+
+My goal is to keep transforming the world and contributing to high-impact solutions.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
 <p>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
@@ -61,11 +57,11 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=camilasrody&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=camilasrody&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a4a,100:1a1a1a&height=100&section=footer" />
 </div>
