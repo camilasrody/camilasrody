@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=camilasrody&label=Profile%20views&color=555555&style=flat-square" />
 </p>
 
----
 
 Since 2016, I've been passionate about what I do as a frontend developer. Throughout my career I've had incredible opportunities to improve products and businesses — and to contribute to solutions that save lives through the code I write.
 
