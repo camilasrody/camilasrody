@@ -51,14 +51,6 @@ My goal is to keep transforming the world and contributing to high-impact soluti
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilasrody&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-</div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a4a,100:1a1a1a&height=100&section=footer" />
