@@ -13,7 +13,7 @@
 </p>
 
 
-Since 2016, I've been passionate about what I do as a frontend developer. Throughout my career I've had incredible opportunities to improve products and businesses — and to contribute to solutions that save lives through the code I write.
+Since 2016, I've been passionate about what I do. Throughout my career I've had incredible opportunities to improve products and businesses — and to contribute to solutions that save lives through the code I write.
 
 My focus is always on clean, well-structured code, using the right tools for each challenge. I keep myself constantly updated, investing in knowledge and practice to deliver quality work.
 
